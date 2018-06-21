@@ -1,5 +1,6 @@
 package com.exce.exception.message;
 
+//Esta es una clase envolvente para el adecuado retorno en json del manejador de excepciones (ApiExceptionHandler)
 public class ErrorMessage {
 
     private String exception;
